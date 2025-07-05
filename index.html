@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen WEB</title>
+    <link rel="stylesheet" href="bootstrap/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Font family -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="main">
+        <header>
+            <div class="logo" >
+                <h1 style="color: white;">note<span style="color:#00e19c ;" >Sphere</span></h1>
+                <img src="assets/image fond body.png" alt="image logo" class="image">
+            </div>
+            <input type="text" placeholder="search a note" class="search" id="search">
+        </header>
+        <section>
+            <div class="arrangement">
+                <button id="notePlus">+</button>
+                <button id="noteSuppr">Effacer tout</button>
+            </div>
+            <div id="noteContainer" class="container"></div>
+        </section>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
