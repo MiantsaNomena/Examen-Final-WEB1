@@ -1,8 +1,5 @@
 # noteSphere | Examen Final de WEB1
-### Miantsa Nomena  STD 24215
-### Andy  STD 24217
-
-
+### Miantsa Nomena  STD 24215 et Andy SaTD 24217
 
 ## Fonctionnalités
 - Ajouter , modifier et supprimer les notes 
