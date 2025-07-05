@@ -12,6 +12,3 @@
 - HTML
 - CSS
 - JS
-## Aperçu
-![Screenshot]("C:\Users\User\Videos\Captures\Examen WEB et 3 pages de plus - Personnel – Microsoft​ Edge 05_07_2025 09_38_55.png")
-
